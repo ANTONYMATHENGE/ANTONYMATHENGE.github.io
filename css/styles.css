@@ -115,6 +115,7 @@
             left: 70%;
             transform: translateX(-70%);
             margin-top: 10px;
+            width: 10cm;
         }
         
         .about-container {
@@ -132,6 +133,7 @@
         
         .about-container img {
             height: 200px;
+            width: 4cm;
         }
         
         .about-text {
